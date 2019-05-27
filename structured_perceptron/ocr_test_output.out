@@ -1,0 +1,45 @@
+Dataset: ocr
+Q_1c
+Experiment: unary
+Iteration: 1, Accuracy: 0.4177355403799173
+Iteration: 2, Accuracy: 0.4827614594651869
+Iteration: 3, Accuracy: 0.5325767493140714
+Iteration: 4, Accuracy: 0.5220340915949618
+Iteration: 5, Accuracy: 0.5337729557454401
+Iteration: 6, Accuracy: 0.563773078802674
+Iteration: 7, Accuracy: 0.5327734371247409
+Iteration: 8, Accuracy: 0.5216408922136005
+Iteration: 9, Accuracy: 0.5415641234110279
+Iteration: 10, Accuracy: 0.5617576001914507
+Iteration: 11, Accuracy: 0.5419533642737929
+Iteration: 12, Accuracy: 0.5482877988717054
+Iteration: 13, Accuracy: 0.5366245918357581
+Iteration: 14, Accuracy: 0.5429657293239121
+Iteration: 15, Accuracy: 0.5482283434051151
+Iteration: 16, Accuracy: 0.5446983338920629
+Iteration: 17, Accuracy: 0.5546995260201147
+Iteration: 18, Accuracy: 0.547916016864985
+Iteration: 19, Accuracy: 0.560615216650251
+Iteration: 20, Accuracy: 0.5581028900177837
+Experiment: unary+pairwise
+Iteration: 1, Accuracy: 0.4113276976138918
+Iteration: 2, Accuracy: 0.5209439878452836
+Iteration: 3, Accuracy: 0.5136675936268001
+Iteration: 4, Accuracy: 0.512510805463933
+Iteration: 5, Accuracy: 0.5464266474384855
+Iteration: 6, Accuracy: 0.5958613339592382
+Iteration: 7, Accuracy: 0.589639020838029
+Iteration: 8, Accuracy: 0.6032690979899427
+Iteration: 9, Accuracy: 0.6128588860791708
+Iteration: 10, Accuracy: 0.6197784720301117
+Iteration: 11, Accuracy: 0.635340489599808
+Iteration: 12, Accuracy: 0.6355039510694606
+Iteration: 13, Accuracy: 0.6104040096841249
+Iteration: 14, Accuracy: 0.6251497808968614
+Iteration: 15, Accuracy: 0.6330726215784607
+Iteration: 16, Accuracy: 0.6301709049229446
+Iteration: 17, Accuracy: 0.6375616904292316
+Iteration: 18, Accuracy: 0.6363567297097932
+Iteration: 19, Accuracy: 0.6273069653288817
+Iteration: 20, Accuracy: 0.6292569412670196
+Experiment: unary+pairwise+triples

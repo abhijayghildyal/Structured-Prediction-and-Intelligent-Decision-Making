@@ -1,0 +1,14 @@
+Dataset: ocr
+Q_1c
+Experiment: unary
+Iteration: 19, Accuracy: 0.5575452822653271
+Iteration: 20, Accuracy: 0.5589110315554084
+Experiment: unary+pairwise
+Iteration: 19, Accuracy: 0.6261313687645476
+Iteration: 20, Accuracy: 0.6277788072500918
+Experiment: unary+pairwise+triples
+Iteration: 19, Accuracy: 0.6449233390722753
+Iteration: 20, Accuracy: 0.652622276406471
+Experiment: unary+pairwise+triples+quadruples
+Iteration: 19, Accuracy: 0.6451737587675838
+Iteration: 20, Accuracy: 0.6627388435699105

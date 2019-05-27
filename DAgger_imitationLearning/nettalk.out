@@ -1,0 +1,153 @@
+Dataset: nettalk
+===== Perform exact_imiattion =====
+
+Training on..... (6536, 91)
+
+Recurrent Error on Val data:
+ 0.18766110432777097
+
+IID Val Error on Val data:
+ 0.19796215429403202
+
+Recurrent Test Error:
+ 0.16446588754382874
+
+IID Test Error:
+ 0.18185584092792045
+
+===== learning_via_dagger =====
+
+===== beta_j =====  0.5
+===== Training on L_ei =====
+
+Training on..... (6536, 91)
+
+===== Applying Dagger =====
+
+Training on..... (7209, 91)
+Recurrent Val Error:  0.13671174504507838
+Recurrent Test Error:  0.16022725950520067
+
+Training on..... (7828, 91)
+Recurrent Val Error:  0.17829146162479495
+Recurrent Test Error:  0.18738170408023347
+
+Training on..... (8506, 91)
+Recurrent Val Error:  0.19572248738915407
+Recurrent Test Error:  0.17086252701546817
+
+Training on..... (9191, 91)
+Recurrent Val Error:  0.18012234678901345
+Recurrent Test Error:  0.2049306888373065
+
+Training on..... (9912, 91)
+Recurrent Val Error:  0.1911369494702828
+Recurrent Test Error:  0.171906775822217
+
+===== beta_j =====  0.6
+===== Training on L_ei =====
+
+Training on..... (6536, 91)
+
+===== Applying Dagger =====
+
+Training on..... (7076, 91)
+Recurrent Val Error:  0.14385922719256053
+Recurrent Test Error:  0.16010930107474222
+
+Training on..... (7597, 91)
+Recurrent Val Error:  0.18198869032202364
+Recurrent Test Error:  0.173281664822106
+
+Training on..... (8124, 91)
+Recurrent Val Error:  0.18359726693060024
+Recurrent Test Error:  0.17172711006313945
+
+Training on..... (8641, 91)
+Recurrent Val Error:  0.18649806983140313
+Recurrent Test Error:  0.18724228932831874
+
+Training on..... (9165, 91)
+Recurrent Val Error:  0.18927985594652258
+Recurrent Test Error:  0.17451942012236127
+
+===== beta_j =====  0.7
+===== Training on L_ei =====
+
+Training on..... (6536, 91)
+
+===== Applying Dagger =====
+
+Training on..... (6894, 91)
+Recurrent Val Error:  0.13739717073050406
+Recurrent Test Error:  0.1580700292354704
+
+Training on..... (7261, 91)
+Recurrent Val Error:  0.16788735955402623
+Recurrent Test Error:  0.16565628048422168
+
+Training on..... (7634, 91)
+Recurrent Val Error:  0.1832685832685833
+Recurrent Test Error:  0.17582177373280314
+
+Training on..... (8025, 91)
+Recurrent Val Error:  0.1714020547353881
+Recurrent Test Error:  0.16709073769367888
+
+Training on..... (8385, 91)
+Recurrent Val Error:  0.17020078686745357
+Recurrent Test Error:  0.18477199059110821
+
+===== beta_j =====  0.8
+===== Training on L_ei =====
+
+Training on..... (6536, 91)
+
+===== Applying Dagger =====
+
+Training on..... (6777, 91)
+Recurrent Val Error:  0.1407802074468741
+Recurrent Test Error:  0.1596485937265349
+
+Training on..... (7045, 91)
+Recurrent Val Error:  0.18796296296296294
+Recurrent Test Error:  0.16351563918108036
+
+Training on..... (7284, 91)
+Recurrent Val Error:  0.18871406371406374
+Recurrent Test Error:  0.16569778522131462
+
+Training on..... (7539, 91)
+Recurrent Val Error:  0.1441247024580358
+Recurrent Test Error:  0.16091869445913562
+
+Training on..... (7771, 91)
+Recurrent Val Error:  0.15687707354374023
+Recurrent Test Error:  0.16399049806402746
+
+===== beta_j =====  0.9
+===== Training on L_ei =====
+
+Training on..... (6536, 91)
+
+===== Applying Dagger =====
+
+Training on..... (6670, 91)
+Recurrent Val Error:  0.14322467655800988
+Recurrent Test Error:  0.161406775822217
+
+Training on..... (6801, 91)
+Recurrent Val Error:  0.1329238662571996
+Recurrent Test Error:  0.16090573756309048
+
+Training on..... (6933, 91)
+Recurrent Val Error:  0.15722703222703222
+Recurrent Test Error:  0.16326015577559697
+
+Training on..... (7076, 91)
+Recurrent Val Error:  0.17738311071644403
+Recurrent Test Error:  0.16289840225134342
+
+Training on..... (7180, 91)
+Recurrent Val Error:  0.1520223603556937
+Recurrent Test Error:  0.16264660959955077
